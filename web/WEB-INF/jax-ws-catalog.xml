@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://172.16.168.143:7006/WS_PLE_BRIDGE_SV/PackageCore?WSDL" uri="wsdl/172.16.168.143_7006/WS_PLE_BRIDGE_SV/PackageCore.wsdl"/>
+    <system systemId="http://172.16.168.143:7006/WS_PLE_BRIDGE_SV/PackageCore?xsd=1" uri="wsdl/172.16.168.143_7006/WS_PLE_BRIDGE_SV/PackageCore.xsd_1.xsd"/>
+</catalog>
